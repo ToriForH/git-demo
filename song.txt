@@ -5,6 +5,7 @@ stole mouse
 
 Who is cat?
 You or me?
+<<<<<<< HEAD
 When we met
 it`s gone century
 ---------
